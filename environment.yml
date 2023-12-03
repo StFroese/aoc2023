@@ -1,0 +1,9 @@
+name: aoc23
+channel:
+    - conda-forge
+dependencies:
+    - python=3.11
+    - ipython
+    - numba
+    - cudatoolkit=11.4
+    - jupyter
